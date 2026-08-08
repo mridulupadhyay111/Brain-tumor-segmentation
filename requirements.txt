@@ -1,0 +1,13 @@
+
+streamlit
+torch
+torchvision
+timm
+pillow
+google-generativeai
+numpy
+opencv-python-headless
+fpdf
+python-dotenv
+torch
+requests
