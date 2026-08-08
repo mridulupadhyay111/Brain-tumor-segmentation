@@ -11,3 +11,4 @@ fpdf
 python-dotenv
 torch
 requests
+google-genai
